@@ -3,7 +3,6 @@ background-image: url("../arc-reactor-bg.jpeg");
 background-size: cover;
 background-position: center;
 }
-
 body::before{
 content:"";
 position:fixed;
